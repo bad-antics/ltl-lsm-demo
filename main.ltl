@@ -1,0 +1,15 @@
+// ltl-lsm-demo/main.ltl
+//
+// Educational log-structured merge tree implementation.
+//
+// This is an early skeleton — contribution is welcome! See the
+// README for build instructions.
+
+import std::io
+import std::fmt
+
+pub fn main(args: [str]) -> Int {
+    io::println("ltl-lsm-demo v0.1.0")
+    io::println("Educational log-structured merge tree implementation.")
+    0
+}
